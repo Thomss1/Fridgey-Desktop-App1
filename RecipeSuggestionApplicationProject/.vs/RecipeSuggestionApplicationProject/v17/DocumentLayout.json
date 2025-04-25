@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|c:\\users\\user\\source\\repos\\recipesuggestionapplicationproject\\recipesuggestionapplicationproject\\recipesuggestionapplicationproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\recipesuggestionapplicationproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|c:\\users\\user\\source\\repos\\recipesuggestionapplicationproject\\recipesuggestionapplicationproject\\recipesuggestionapplicationproject\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\recipesuggestionapplicationproject\\recipepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\recipepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|c:\\users\\user\\source\\repos\\recipesuggestionapplicationproject\\recipesuggestionapplicationproject\\recipesuggestionapplicationproject\\recipepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\recipepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\recipesuggestionapplicationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\recipesuggestionapplicationproject\\mealplannerdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\mealplannerdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\recipesuggestionapplicationproject\\searchresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\searchresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\recipesuggestionapplicationproject\\searchresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\searchresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\recipesuggestionapplicationproject\\recipepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\recipepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\recipesuggestionapplicationproject\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\mealplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\recipesuggestionapplicationproject\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\recipesuggestionapplicationproject\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\recipesuggestionapplicationproject\\searchresults.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213979B7-6385-41BC-B161-DB7A8D9441EC}|RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj|solutionrelative:recipesuggestionapplicationproject\\searchresults.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RecipeSuggestionApplicationProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 394,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipePage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipePage.Designer.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\RecipePage.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipePage.Designer.cs",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\RecipePage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:38:43.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\HomePage.Designer.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\HomePage.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\HomePage.Designer.cs",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\HomePage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:38:28.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MealPlannerDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\MealPlannerDatabase.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\MealPlannerDatabase.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\MealPlannerDatabase.cs",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\MealPlannerDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:40:18.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\Program.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\Program.cs",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:27:56.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchResults.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\SearchResults.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\SearchResults.cs",
+              "ToolTip": "G:\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\SearchResults.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:01:53.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\HomePage.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\HomePage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\HomePage.cs",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\HomePage.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAAAGsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:13:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipePage.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\RecipePage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipePage.cs [Design]",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\RecipePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:02:47.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\HomePage.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\HomePage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\HomePage.cs [Design]",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:28:07.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchResults.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\SearchResults.Designer.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\SearchResults.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\SearchResults.Designer.cs",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\SearchResults.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:33:42.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Loading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\Loading.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\Loading.cs",
+              "ToolTip": "G:\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\Loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:16:27.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Loading.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\Loading.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\Loading.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\Loading.cs",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\Loading.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:18:26.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MealPlan.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\MealPlan.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\MealPlan.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\MealPlan.cs",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\MealPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:37:43.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchResults.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\SearchResults.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\SearchResults.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\SearchResults.cs",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\SearchResults.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAmwKAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:52:30.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RecipeSuggestionApplicationProject",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-30T06:03:10.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecipePage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipePage.cs",
+              "RelativeDocumentMoniker": "RecipeSuggestionApplicationProject\\RecipePage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipeSuggestionApplicationProject\\RecipePage.cs",
+              "RelativeToolTip": "RecipeSuggestionApplicationProject\\RecipePage.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:10:08.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
